@@ -2,5 +2,6 @@
 
 ## 📋 Descripción
 
-Este programa es una aplicación React que permite agregar productos a una lista y visualizarlos de manera estilizada utilizando React-Bootstrap.
+El programa desarrollado con react, typescript y vite
+
 
